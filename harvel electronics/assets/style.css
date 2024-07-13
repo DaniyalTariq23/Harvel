@@ -1,0 +1,174 @@
+#navbar
+{
+    background-color: #2d3b81 !important;
+    height: 80px;
+}
+#navbar .nav-link
+{
+    color: white;
+    padding: 20px;
+}
+
+#navbar .dropdown-menu
+{
+    background-color: #2d3b81 !important;  
+}
+#navbar .dropdown-menu .dropdown-item
+{
+color: white;
+}
+#navbar .dropdown-menu .dropdown-item:hover
+{
+background-color: white;
+color: black;
+}
+.dropdown-menu
+{
+    background-color: #2d3b81 !important;
+    position: absolute !important;
+    z-index: 3 !important;
+}
+#logo
+{
+    height: 100px;
+    margin-top: 7% !important;
+
+}
+/* .Card-4{
+    box-shadow: 10px;
+} */
+/* .Card-3{
+    box-shadow: 10px;
+}
+.Card-2{
+    box-shadow: 10px;
+} */
+/* .card-title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}  */
+/* .hov h6:hover{
+    color: white;
+   background-color: rgb(24, 24, 188);
+   cursor: pointer;
+}  */
+/* .row{
+    height: 50px;
+} */
+.imagetable td{
+    border: 3px solid black;
+}
+.imagetable td h6:hover{
+background-color: rgb(91, 157, 198);
+color: white;
+cursor: pointer;
+}
+.row-1 h3{
+   text-align: center;
+    color: white;
+
+}
+ 
+/* footer */
+.social_icon ul {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+
+.footer_section {
+    width: 100%;
+    float: left;
+    background-color: #212121;
+    height: auto;
+    padding: 90px 0px;
+}
+
+.footer_menu {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer_menu ul {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    text-align: center;
+}
+
+.footer_menu li {
+    float: left;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 0px 25px;
+}
+
+.footer_menu li a {
+    color: #ffffff;
+}
+
+.footer_menu li a:hover {
+    color: #d89616;
+}
+
+.social_icon {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.social_icon ul {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.social_icon li {
+    float: left;
+    padding: 25px 5px 0px 5px;
+}
+
+.copyright_section {
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+    height: auto;
+    padding: 10px 0px;
+}
+
+.copyright_text {
+    width: 100%;
+    float: left;
+    color: #222222;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 0px;
+}
+
+.copyright_text a {
+    color: #222222;
+}
+
+.copyright_text a:hover {
+    color: #d89616;
+}
+
+ul,
+li,
+ol {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+/* footer */
+
